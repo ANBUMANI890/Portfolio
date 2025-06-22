@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# builds and logs
+dist/
+build/
+out/
+*.log
+
+# IDE / OS cruft
+.vscode/
+.DS_Store
